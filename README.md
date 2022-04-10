@@ -1,4 +1,4 @@
-#Scratch Arch
+Scratch Arch
 
 
 This project is about bringing a linux distro known as "Arch Linux" to scratch as close as possible.
