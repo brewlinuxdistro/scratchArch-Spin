@@ -1,7 +1,4 @@
-scratchArch old builds
+scratchArch Spin! 
+this is a fork that contains all the comments and guides that you need to make your own spin of Scratch arch!
 
-These builds were released from a while ago and are not supported.
-They do not recieve bug fixes, or any updates ever 
-
-
-All rights go to the Arch linux team, Grub devs, and the linux devs.
+credits go to GRUB devs, Linux Devs,and Archlinux devs.
