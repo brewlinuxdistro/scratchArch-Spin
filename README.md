@@ -1,4 +1,7 @@
-scratchArch KDE Edition
+scratchArch beta build
 
-This release of scratchArch uses an adaptation of KDE plasma on scratch.
-All rights go to Arch devs, Linux devs, Grub devs, and Kde devs
+This build is unstable and might not work as expected.
+This is mainly for testing purposes and is not a full release
+
+
+All rights go to the Arch linux team, Grub devs, and the linux devs.
