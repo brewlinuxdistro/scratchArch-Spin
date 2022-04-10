@@ -1,7 +1,7 @@
-scratchArch beta build
+scratchArch old builds
 
-This build is unstable and might not work as expected.
-This is mainly for testing purposes and is not a full release
+These builds were released from a while ago and are not supported.
+They do not recieve bug fixes, or any updates ever 
 
 
 All rights go to the Arch linux team, Grub devs, and the linux devs.
